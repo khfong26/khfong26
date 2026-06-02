@@ -17,7 +17,7 @@ I am a Software Engineer and Data Scientist focused on the intersection of scala
 #### 📈 [Portfolio Risk Analyzer](https://github.com/khfong26/portfolio-risk-analyzer)
 * **What it is:** A statistical data science tool evaluating market portfolios and simulated financial risk profiles.
 * **Tech Stack:** Python, Pandas, NumPy, Scikit-learn
-* **Key Highlight:** Leveraged advanced data manipulation techniques to calculate asset volatility, expected returns, and risk exposure across varied asset mixes.
+* **Key Highlight:** Utilized data manipulation techniques to calculate asset volatility, expected returns, and risk exposure across varied asset mixes.
 
 #### 🧠 [Mini GPT Language Model](https://github.com/khfong26/chatbot-playground)
 * **What it is:** A generative transformer model trained from scratch to synthesize text and demonstrate deep learning principles.
@@ -36,7 +36,7 @@ I am a Software Engineer and Data Scientist focused on the intersection of scala
 
 #### 🔢 [24 Game Engine](https://github.com/khfong26/24)
 * **What it is:** A digital implementation of the classic 24 card game focusing on modular application architecture and robust execution.
-* **Tech Stack:** (JavaScript, Python)
+* **Tech Stack:** JavaScript, Python
 * **Key Highlight:** Focused on clean software engineering principles, implementing strict input validation, edge-case handling, and an efficient state-tracking system to seamlessly evaluate game logic and string parsing.
 
 #### 🎮 [Valorant Agent Analytics Pipeline](https://github.com/khfong26/Valorant-Agent-Analysis)
