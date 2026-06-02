@@ -36,7 +36,7 @@ I am a Software Engineer and Data Scientist focused on the intersection of scala
 
 #### 🔢 [24 Game Engine](https://github.com/khfong26/24)
 * **What it is:** A digital implementation of the classic 24 card game focusing on modular application architecture and robust execution.
-* **Tech Stack:** (Insert Language - e.g., JavaScript or Python)
+* **Tech Stack:** (JavaScript, Python)
 * **Key Highlight:** Focused on clean software engineering principles, implementing strict input validation, edge-case handling, and an efficient state-tracking system to seamlessly evaluate game logic and string parsing.
 
 #### 🎮 [Valorant Agent Analytics Pipeline](https://github.com/khfong26/Valorant-Agent-Analysis)
